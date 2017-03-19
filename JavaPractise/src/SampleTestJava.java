@@ -4,6 +4,11 @@ import java.util.List;
 /**
  * Created by nineleaps on 13/3/17.
  */
+
+
+
+
+// class which converts a string into 3 letter words and converts each word to binary
 public class SampleTestJava {
 
     private static ArrayList<String> values;
